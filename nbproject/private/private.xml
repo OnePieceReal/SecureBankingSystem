@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/authentication/protocols/DigitalSignature.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/server/ATMClient.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/server/BankServer.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/authentication/protocols/Nonce.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/main.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/LoginController.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/dashboard.css</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/server/ClientHandler.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/DashboardController.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/server/CryptoUtils.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/server/User.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/login.fxml</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/dashboard.fxml</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/authentication/protocols/DES.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/bankingapp/RegistrationController.java</file>
+            <file>file:/C:/Users/josej/OneDrive/Documents/NetBeansProjects/COE817PROJECT/src/authentication/protocols/RSA.java</file>
+        </group>
+    </open-files>
+</project-private>

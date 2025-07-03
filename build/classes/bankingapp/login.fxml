@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.text.Text?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<VBox fx:id="rootContainer" alignment="CENTER" spacing="25" 
+      stylesheets="@login.css" 
+      xmlns="http://javafx.com/javafx/17" 
+      xmlns:fx="http://javafx.com/fxml/1" 
+      fx:controller="bankingapp.LoginController"
+      styleClass="dark-root">
+    
+    <padding>
+        <Insets top="50" right="50" bottom="30" left="50"/>
+    </padding>
+    
+    <GridPane hgap="15" vgap="20" alignment="CENTER">
+        <columnConstraints>
+            <ColumnConstraints halignment="RIGHT" minWidth="90"/>
+            <ColumnConstraints halignment="LEFT" minWidth="220"/>
+        </columnConstraints>
+        
+        <rowConstraints>
+            <RowConstraints prefHeight="35" valignment="CENTER"/>
+            <RowConstraints prefHeight="35" valignment="CENTER"/>
+        </rowConstraints>
+        
+        <Text text="Username:" styleClass="dark-label" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+        <TextField fx:id="username" promptText="Enter username" styleClass="dark-field" 
+                   GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+        
+        <Text text="Password:" styleClass="dark-label" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+        <PasswordField fx:id="password" promptText="Enter password" styleClass="dark-field" 
+                   GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+    </GridPane>
+    
+    <HBox alignment="CENTER" spacing="20">
+        <Button fx:id="login_btn" text="Login" onAction="#handleLoginButtonAction" 
+                styleClass="dark-button" defaultButton="true"/>
+    </HBox>
+    
+    <Text fx:id="error" styleClass="error-text" wrappingWidth="300"/>
+</VBox>
