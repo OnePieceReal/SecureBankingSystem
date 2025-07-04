@@ -3,6 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-21%2B-blue)
 ![JavaFX](https://img.shields.io/badge/JavaFX-24%2B-orange)
 ![Security](https://img.shields.io/badge/Security-Protocols-green)
+
 This project involves the design and implementation of secure communication protocols for a banking system consisting of a bank server and multiple ATM clients. The system ensures secure authentication, key distribution, and encrypted transactions while maintaining an encrypted audit log of all activities.
 ## Features
 - **Secure Authentication Protocol**:
