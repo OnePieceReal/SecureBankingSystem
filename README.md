@@ -1,9 +1,11 @@
-# AlphaBiz Loyalty Program Web Portal (React/Node.js/MongoDB)
+# AlphaBiz Loyalty Program Web Portal (Next.js/React/MongoDB)
 
-![React](https://img.shields.io/badge/React-18%2B-blue)
-![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-brightgreen)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-blueviolet)
+![Next.js](https://img.shields.io/badge/Next.js-15+-black)
+![React](https://img.shields.io/badge/React-19+-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4+-teal)
+![Mongoose](https://img.shields.io/badge/Mongoose-ODM-red)
+
 
 ---
 
@@ -49,16 +51,38 @@ The system includes:
 
 ## 🖼️ Screenshots
 
-> *(Add your actual screenshots in the `images/` directory and update the links below)*
+> *(Replace these with real images from your app UI)*
 
-### 🔹 Client Dashboard
+### 🔹 Client Dashboard  
 ![Client Dashboard](images/client-dashboard.png)
 
-### 🔹 Reward Redemption Page
+### 🔹 Reward Redemption Page  
 ![Reward Redemption](images/reward-redemption.png)
 
-### 🔹 Admin Panel
+### 🔹 Admin Panel  
 ![Admin Panel](images/admin-panel.png)
 
+---
 
+## 🚀 Tech Stack
 
+| Category     | Technology                      |
+|--------------|----------------------------------|
+| Frontend     | **Next.js 15**, **React 19 RC** |
+| Styling      | **Tailwind CSS**, **Radix UI**  |
+| Backend/API  | **Node.js**, **Mongoose**       |
+| Database     | **MongoDB**                     |
+| API Docs     | **Swagger UI Express**          |
+| Utilities    | **clsx**, **tailwind-merge**    |
+
+---
+
+## 📄 License
+
+This project is developed for educational purposes as part of the **CPS714 - Software Engineering** course at Toronto Metropolitan University.
+
+---
+
+## ✍️ Author
+
+- **Jose John Mulloor** – Developer of the Loyalty Points & Rewards sub-project
