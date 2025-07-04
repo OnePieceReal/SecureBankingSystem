@@ -1,7 +1,7 @@
 # Secure Banking System (Java/JavaFX)
 
-![Java](https://img.shields.io/badge/Java-17%2B-blue)
-![JavaFX](https://img.shields.io/badge/JavaFX-19%2B-orange)
+![Java](https://img.shields.io/badge/Java-21%2B-blue)
+![JavaFX](https://img.shields.io/badge/JavaFX-24%2B-orange)
 ![Security](https://img.shields.io/badge/Security-Protocols-green)
 
 ## Features
