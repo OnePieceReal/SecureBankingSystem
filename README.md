@@ -1,5 +1,9 @@
-# Banking System Security Protocols
-This project involves the design and implementation of secure communication protocols for a banking system consisting of a bank server and multiple ATM clients. The system ensures secure authentication, key distribution, and encrypted transactions while maintaining an encrypted audit log of all activities.
+# Secure Banking System (Java/JavaFX)
+
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![JavaFX](https://img.shields.io/badge/JavaFX-19%2B-orange)
+![Security](https://img.shields.io/badge/Security-Protocols-green)
+
 ## Features
 - **Secure Authentication Protocol**:
   - Two-layer authentication using shared keys and derived master secrets
