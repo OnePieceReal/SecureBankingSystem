@@ -62,27 +62,6 @@ The system includes:
 ### 🔹 Admin Panel  
 ![Admin Panel](images/admin-panel.png)
 
----
 
-## 🚀 Tech Stack
-
-| Category     | Technology                      |
-|--------------|----------------------------------|
-| Frontend     | **Next.js 15**, **React 19 RC** |
-| Styling      | **Tailwind CSS**, **Radix UI**  |
-| Backend/API  | **Node.js**, **Mongoose**       |
-| Database     | **MongoDB**                     |
-| API Docs     | **Swagger UI Express**          |
-| Utilities    | **clsx**, **tailwind-merge**    |
-
----
-
-## 📄 License
-
-This project is developed for educational purposes as part of the **CPS714 - Software Engineering** course at Toronto Metropolitan University.
-
----
-
-## ✍️ Author
 
 - **Jose John Mulloor** – Developer of the Loyalty Points & Rewards sub-project
