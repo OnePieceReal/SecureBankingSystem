@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/React-19+-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4+-teal)
-![Mongoose](https://img.shields.io/badge/Mongoose-ODM-red)
+
 
 
 ---
