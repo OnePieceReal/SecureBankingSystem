@@ -24,3 +24,42 @@ This project involves the design and implementation of secure communication prot
 - **Audit Logging**:
   - Encrypted record of all customer actions
   - Includes customer ID, action type, and timestamp
+
+ 
+## NetBeans Setup Guide
+
+### Prerequisites
+- NetBeans IDE 18+ (with Java support)
+- Java SE Development Kit 21
+- JavaFX SDK 24
+
+### Installation Steps
+
+1. **Install JDK 21**
+   - Download from [Oracle JDK 21](https://www.oracle.com/java/technologies/downloads/#java21)
+   - Set as default JDK in NetBeans:
+     ```
+     Tools → Java Platforms → Add JDK...
+     ```
+
+2. **Install JavaFX 24 SDK**
+   - Download from [Gluon JavaFX](https://gluonhq.com/products/javafx/)
+   - Extract to a permanent location (e.g., `C:\javafx-sdk-24`)
+
+3. **Configure NetBeans for JavaFX**
+   - Go to:
+     ```
+     File → Project Properties → Libraries
+     ```
+   - Add these VM Options:
+     ```
+     --module-path="path/to/javafx-sdk-24/lib" --add-modules=javafx.controls,javafx.fxml
+     ```
+   - Example for Windows:
+     ```
+     --module-path="C:\javafx-sdk-24\lib" --add-modules=javafx.controls,javafx.fxml
+     ```
+
+4. **Clone and Import Project**
+   ```bash
+   git clone [repository-url]
